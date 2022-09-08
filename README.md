@@ -17,7 +17,7 @@ cURL is a command line tool created in 1998 by [Daniel Stenberg](https://twitter
 <br>
 Daniel Stenberg's website: https://daniel.haxx.se
 <br>
-The latest version of the Tool and the code is open source right here on GitHub: https://github.com/curl/curl
+The latest version of the Tool and the code is open source right here on GitHub: https://github.com/trhacknon/cURL_for_OSINT
 
 <br>
 
